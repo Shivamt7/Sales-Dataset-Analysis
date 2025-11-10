@@ -48,10 +48,10 @@ It helps stakeholders make **data-driven business decisions** by visualizing key
 
 | View | Description |
 |------|--------------|
-| ![Order Date](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/4caa1c2976e8ed7ab9d9d8acb1c8f2831bf979df/Table%20Visual.png) | Orders Data Table with interactive filters |
-| ![KPIs](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/8c14aa8039e56fe2ff801af3ea956731aaee50ed/Camparison%20Sales_Profit_Quantity.png) | KPI cards for Net Sales, Profit & Quantity comparison |
-| ![Top Bottom Products](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/4caa1c2976e8ed7ab9d9d8acb1c8f2831bf979df/Top_Bottom%20Sales.png) | Top & Bottom 5 Products by Sales, Profit & Quantity |
 | ![Sales by City](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/4caa1c2976e8ed7ab9d9d8acb1c8f2831bf979df/Trends%20and%20Overview.png) | Sales by City, Profit vs Net Sales & Sales Trend visual |
+| ![Top Bottom Products](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/4caa1c2976e8ed7ab9d9d8acb1c8f2831bf979df/Top_Bottom%20Sales.png) | Top & Bottom 5 Products by Sales, Profit & Quantity |
+| ![KPIs](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/8c14aa8039e56fe2ff801af3ea956731aaee50ed/Camparison%20Sales_Profit_Quantity.png) | KPI cards for Net Sales, Profit & Quantity comparison |
+| ![Order Date](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/4caa1c2976e8ed7ab9d9d8acb1c8f2831bf979df/Table%20Visual.png) | Orders Data Table with interactive filters |
 
 ---
 
