@@ -48,8 +48,8 @@ It helps stakeholders make **data-driven business decisions** by visualizing key
 
 | View | Description |
 |------|--------------|
-| ![Interactive Filter by Date.pdf](Camparison Sales_Profit_Quantity.png) | Orders Data Table with interactive filters |
-| ![KPIs](./Screenshot%202025-11-10%20212750.png) | KPI cards for Net Sales, Profit & Quantity comparison |
+| ![Order Date]() | Orders Data Table with interactive filters |
+| ![KPIs](https://github.com/Shivamt7/Sales-Dataset-Analysis/blob/8c14aa8039e56fe2ff801af3ea956731aaee50ed/Camparison%20Sales_Profit_Quantity.png) | KPI cards for Net Sales, Profit & Quantity comparison |
 | ![Top Bottom Products](./Screenshot%202025-11-10%20212812.png) | Top & Bottom 5 Products by Sales, Profit & Quantity |
 | ![Sales by City](./Screenshot%202025-11-10%20212848.png) | Sales by City, Profit vs Net Sales & Sales Trend visual |
 
