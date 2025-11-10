@@ -147,10 +147,10 @@ Jaipur, Ahmedabad, Pune, Chennai
 ## 👨‍💻 Author  
 
 **Shivam Mishra**  
-SDE Intern | Data Analyst | Power BI Developer  
+SDE-1 | Data Analyst | Power BI Developer  
 
-📧 [shivammishra@example.com](mailto:shivammishra@example.com)  
-🌐 [LinkedIn Profile](https://linkedin.com/in/shivammishra)  
+📧 [shivam.s.mishra7@gmail.com](mailto:shivam.s.mishra7@gmail.com)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/shivammishra7/)  
 
 ---
 
