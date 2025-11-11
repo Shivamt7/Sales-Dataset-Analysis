@@ -15,7 +15,7 @@
 This Power BI dashboard provides actionable insights into **Sales Performance, Profitability, Customer Behavior**, and **Discount Strategies**.  
 It helps stakeholders make **data-driven business decisions** by visualizing key KPIs, product trends, and regional performance.
 
-🔗 **Dashboard Link:** [View Power BI Report](https://app.powerbi.com/links/13y6TgW8sI?ctid=5e770d14-5ca7-46e0-9e00-2cdf210bd1ca&pbi_source=linkShare)
+🔗 **Dashboard Link:** [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTQwMjExZDctMWQ0Ny00NzMyLWE5ODQtMDI2YzZkNmI2OGY5IiwidCI6IjVlNzcwZDE0LTVjYTctNDZlMC05ZTAwLTJjZGYyMTBiZDFjYSJ9)
 
 ---
 
